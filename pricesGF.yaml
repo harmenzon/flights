@@ -1,0 +1,971 @@
+data:
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-02-26 13:20:58.603600
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2079.15
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-02-26 13:26:09.697651
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2079.15
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-02-26 13:27:33.390637
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2079.15
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-02-26 13:27:50.015345
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2079.15
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-02-26 13:29:31.405741
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2079.15
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-02-26 13:30:46.801734
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2079.15
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-02-26 13:32:15.759494
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2079.15
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-02-26 13:33:18.520496
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2079.15
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-02-26 13:34:40.121395
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2079.15
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-02-26 13:34:55.933959
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2079.15
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-02-26 13:35:08.098319
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2079.15
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-02-26 13:35:35.946531
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2079.15
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-02-26 13:36:27.030296
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2079.15
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-02-26 13:37:23.425624
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2079.15
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-02-26 13:38:09.649388
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2079.15
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-02-26 13:40:42.003153
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2079.15
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-02-26 13:41:35.833950
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2079.15
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-02-26 13:44:14.663061
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2079.15
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-05 20:02:20.900031
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2219.93
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-05 20:23:12.795474
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2219.93
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-05 20:26:12.343083
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2219.93
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-05 20:27:16.204299
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2219.93
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-05 20:57:48.714568
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2219.93
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 07:24:05.191131
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 07:54:37.487967
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 08:25:11.015840
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 08:55:43.531349
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 09:26:15.967935
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 09:56:49.458917
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 10:27:16.953866
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 10:57:50.095491
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 11:28:23.742870
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 11:58:57.072806
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 12:29:31.168730
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 13:00:04.635461
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 13:30:38.556128
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 14:01:17.749179
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 14:31:52.573205
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 15:02:26.393255
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 15:33:00.550997
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 16:03:35.052664
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 16:34:10.094430
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 17:04:45.137645
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 17:35:20.756673
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 18:05:50.193295
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 18:36:25.532698
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 19:07:00.804141
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 19:37:36.435693
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 20:08:12.498427
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 20:38:47.528972
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 21:09:24.609089
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 21:40:00.396212
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 22:10:41.321503
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 22:41:15.939661
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 23:11:51.168688
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-07 23:42:27.451073
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2210.72
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 00:13:04.848160
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 00:43:41.687627
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 01:14:17.625240
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 01:44:54.021315
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 02:15:31.055842
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 02:46:07.937970
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 03:16:44.742926
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 03:47:21.935626
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 04:17:58.985415
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 04:48:35.617178
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 05:19:12.736309
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 05:49:49.685448
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 06:20:27.035745
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 06:51:00.107050
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 07:21:38.021306
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 07:52:20.126649
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 08:22:57.320570
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 08:53:26.219096
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 09:23:48.450345
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 09:54:10.590704
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 10:24:32.897032
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 10:54:55.382090
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 11:25:17.779118
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 11:55:40.763169
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 12:26:03.768378
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 12:56:26.379057
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 13:26:49.269120
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 13:57:11.868414
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 14:27:34.850886
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 14:57:57.729532
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 15:28:20.861153
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 15:58:44.478359
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 16:29:07.913627
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 16:59:31.668514
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 17:29:54.999613
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 18:00:18.718641
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 18:30:42.322590
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 19:01:06.511061
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 19:31:30.807057
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-08 20:01:54.733361
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
+- conDuration1: 205
+  conDuration2: 70
+  ct: 275
+  dateTime: 2017-03-13 09:16:35.880243
+  flightCarrier1: SQ
+  flightCarrier2: SQ
+  totalDuration1: 1175
+  totalDuration2: 1125
+  totalPrice: 2211.92
+  tt: 2300
