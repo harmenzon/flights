@@ -1,9 +1,5 @@
 # flights
 
--- 
-DEFAULTS
---
-
 --
 STEP 1: DEFAULTS
 --
